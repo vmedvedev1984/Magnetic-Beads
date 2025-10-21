@@ -97,3 +97,5 @@ Note: Uncoated MNPs get slowly oxidized over time which is indicated by a brown 
 Disperse the isolated paramagnetic nanoparticles in deionized water (e.g., in an ultrasonic bath), followed by magnetic extraction as described in Step C7.
 Wash the beads with ddH2O at least 5 times or until the detergent is completely removed and disperse them in 250 ml of ddH2O.
 Note: To measure the synthesis yield, magnetically pellet the silica beads, remove the water and weigh the product wet mass. The coated beads can be stored at RT for at least 1 year.
+
+Для синтеза микросфер использовался образец MnFe2O4 - 1 ммоль ацетилацетоната марганца, 2 ммоль ацетилацетоната железа, 10 ммоль гексадекандиола, 6 ммоль додециламина, 6 ммоль лауриновой кислоты и 20 мл бензилового эфира смешивали и нагревали до 140 °C в течение 1 часа при перемешивании в токе азота. Затем раствор нагревали до 210 °C в течение 2 часов, а затем до 300 °C в течение 1 часа. Реакционную смесь несколько раз промывали этанолом, ацетоном и изопропанолом, центрифугируя и затем редиспергируя в толуоле. Полученные Mn-IONP растворяли в толуоле и хранили при комнатной температуре.
