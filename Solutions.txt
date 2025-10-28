@@ -1,0 +1,9 @@
+1 M Sodium Phosphate Buffer Stock Solution (1 liter)
+  Solution A: Dissolve 138.0 g NaH2PO4–H2O in 1 liter dH2O (pH 7.0).
+  Solution B: Dissolve 142.0 g Na2HPO4 in 1 liter dH2O (pH 7.0).
+  Mix 423 ml Solution A with 577 ml Solution B.
+
+1 M Tris-HCl Buffer Stock Solution (1 liter)
+  Solution A: Dissolve 121.14 g Tris (American Bioanalytical #AB14042) in 800 ml dH2O.
+  Adjust pH to 7.0 with the appropriate volume of concentrated HCl. Bring final volume to 1 liter with deionized water.
+
